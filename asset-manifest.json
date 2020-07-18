@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/waysamurai/static/css/main.3791b90e.chunk.css",
+    "main.js": "/waysamurai/static/js/main.252d8109.chunk.js",
+    "main.js.map": "/waysamurai/static/js/main.252d8109.chunk.js.map",
+    "runtime-main.js": "/waysamurai/static/js/runtime-main.0bbefa4d.js",
+    "runtime-main.js.map": "/waysamurai/static/js/runtime-main.0bbefa4d.js.map",
+    "static/js/2.cecdfb8c.chunk.js": "/waysamurai/static/js/2.cecdfb8c.chunk.js",
+    "static/js/2.cecdfb8c.chunk.js.map": "/waysamurai/static/js/2.cecdfb8c.chunk.js.map",
+    "index.html": "/waysamurai/index.html",
+    "precache-manifest.9f44885fe2268f868833819de7347883.js": "/waysamurai/precache-manifest.9f44885fe2268f868833819de7347883.js",
+    "service-worker.js": "/waysamurai/service-worker.js",
+    "static/css/main.3791b90e.chunk.css.map": "/waysamurai/static/css/main.3791b90e.chunk.css.map",
+    "static/js/2.cecdfb8c.chunk.js.LICENSE.txt": "/waysamurai/static/js/2.cecdfb8c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0bbefa4d.js",
+    "static/js/2.cecdfb8c.chunk.js",
+    "static/css/main.3791b90e.chunk.css",
+    "static/js/main.252d8109.chunk.js"
+  ]
+}
